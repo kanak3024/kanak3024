@@ -4,7 +4,7 @@ Founder of **[ThriftGennie](https://thriftgennie.com)** — a peer-to-peer secon
 fashion marketplace built for India. Think Depop/Vinted, but designed around how
 Indians actually buy and sell: UPI-native, COD-friendly, and AI-assisted.
 
-> 👗 65 listings · 👤 20 sellers · 💸 Live payments via Razorpay
+> 👗 65+ listings · 👤 20+ sellers · 💸 Live payments via Razorpay
 
 ---
 
@@ -37,8 +37,8 @@ PMS strategies — as a solo project.
 ---
 
 ## ⚡ Live Stats (May 2026)
-- 👗 65 listings live on ThriftGennie
-- 👤 20 registered sellers
+- 👗 65+ listings live on ThriftGennie
+- 👤 20+ registered sellers
 - 💳 Real transactions processing
 - 📊 504 NSE/BSE stocks screened on EquiScan
 
