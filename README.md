@@ -67,4 +67,4 @@ PMS strategies — as a solo project.
 ---
 
 ## 📫 Find Me
-🌐 [thriftgennie.com](https://thriftgennie.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kanak-suryavanshi) 
+🌐 [thriftgennie.com](https://thriftgennie.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kanak-suryavanshi-8bbaa724b/) 
