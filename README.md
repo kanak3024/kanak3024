@@ -62,7 +62,7 @@ PMS strategies — as a solo project.
 - 🔨 Scaling ThriftGennie seller onboarding + reducing listing drop-off
 - 🔒 Adding buyer trust features: reviews, verified sellers, dispute resolution
 - 📱 Exploring mobile-first experience for ThriftGennie
-- 🎯 Applying to YC Startup School 2026
+ 
 
 ---
 
