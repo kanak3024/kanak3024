@@ -25,14 +25,14 @@ missing piece: a structured, trust-first platform for Indian thrift culture.
 ---
 
 ### [EquiScan Pro](https://github.com/kanak3024/equiscan-pro)
-A production-grade quantitative stock screener for Indian equity markets.
-Built the same analytical framework used by institutional fund managers and
-PMS strategies — as a solo project.
+ A production-grade quantitative stock screener for Indian equity markets. Built the same analytical framework used by institutional fund managers and PMS strategies — as a solo project.
 
-- 📊 19-factor engine: P/E, ROE, D/E, EPS momentum, promoter holding
-- 📈 Technical signals: 20/50/200 DMA, RSI, MACD, Bollinger Bands
-- ⚡ Live data pipeline covering 504 NSE/BSE stocks (Kite Connect + Screener.in)
-- 🎯 Proprietary Buy / Hold / Sell signal generation
+📊 25-factor engine: P/E, ROE, D/E, EPS momentum, promoter holding, cash flow, revenue growth, analyst consensus and more
+📈 Technical signals: 20/50/200 DMA alignment, RSI, MACD bullish crossover, Golden Cross, Bollinger Band squeeze, ATR volatility filter, 52W high proximity, Relative Strength vs Nifty 50
+⚡ Live data pipeline covering 504 NSE/BSE stocks — Kite Connect for OHLC, Screener.in for fundamentals, Trendlyne for analyst data
+🎯 Tier 2 pro signals — the same momentum & volatility filters used by serious retail traders and PMS desks, rebuilt from scratch
+🔄 Automated daily refresh at 6:30 AM IST with in-memory cache, disk persistence, and batch rate-limiting
+🏗️ Full-stack: FastAPI backend + Next.js frontend with real-time filter engine, scoring system, and live stock detail pages
 
 ---
 
