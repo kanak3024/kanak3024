@@ -25,14 +25,20 @@ missing piece: a structured, trust-first platform for Indian thrift culture.
 ---
 
 ### [EquiScan Pro](https://github.com/kanak3024/equiscan-pro)
- A production-grade quantitative stock screener for Indian equity markets. Built the same analytical framework used by institutional fund managers and PMS strategies — as a solo project.
- 
-📊 25-factor engine — P/E, ROE, D/E, EPS momentum, promoter holding, cash flow, revenue growth, analyst consensus and more
-📈 Technical signals — 20/50/200 DMA alignment, RSI, MACD bullish crossover, Golden Cross, Bollinger Band squeeze, ATR volatility filter, 52W high proximity, Relative Strength vs Nifty 50
-⚡ Live data pipeline — 504 NSE/BSE stocks via Kite Connect (OHLC), Screener.in (fundamentals), and Trendlyne (analyst data)
-🎯 Tier 2 pro signals — momentum & volatility filters used by serious retail traders and PMS desks, rebuilt from scratch
-🔄 Automated daily refresh — 6:30 AM IST scheduler with in-memory cache, disk persistence, and batch rate-limiting
-🏗️ Full-stack — FastAPI backend + Next.js frontend with real-time filter engine, scoring system, and live stock detail pages
+
+A production-grade quantitative stock screener for Indian equity markets. Built the same analytical framework used by institutional fund managers and PMS strategies — as a solo project.
+
+- 📊 **25-factor engine** — P/E, ROE, D/E, EPS momentum, promoter holding, cash flow, revenue growth, analyst consensus and more
+
+- 📈 **Technical signals** — 20/50/200 DMA alignment, RSI, MACD bullish crossover, Golden Cross, Bollinger Band squeeze, ATR volatility filter, 52W high proximity, Relative Strength vs Nifty 50
+
+- ⚡ **Live data pipeline** — 504 NSE/BSE stocks via Kite Connect (OHLC), Screener.in (fundamentals), and Trendlyne (analyst data)
+
+- 🎯 **Tier 2 pro signals** — momentum & volatility filters used by serious retail traders and PMS desks, rebuilt from scratch
+
+- 🔄 **Automated daily refresh** — 6:30 AM IST scheduler with in-memory cache, disk persistence, and batch rate-limiting
+
+- 🏗️ **Full-stack** — FastAPI backend + Next.js frontend with real-time filter engine, scoring system, and live stock detail pages
 ---
 
 ## ⚡ Live Stats (May 2026)
