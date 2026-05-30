@@ -21,6 +21,7 @@ missing piece: a structured, trust-first platform for Indian thrift culture.
 - 💳 Live payments + webhooks (Razorpay)
 - 🤝 Offer/negotiation system built in
 - 🔴 Redis-backed queues (Upstash)
+-  🚚 Dynamic shipping rate calculator via Shiprocket API (sellers get real-time courier quotes at listing time)
 
 ---
 
